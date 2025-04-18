@@ -68,11 +68,11 @@ categories = { ... }  # see full script in repo
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](/images/FreshMarket_page-0001.jpg)
+![Dashboard Screenshot](/images/FreshMartAnalytics_page-0001.jpg)
 
-![Dashboard Screenshot](/images/FreshMarket_page-0002.jpg)
+![Dashboard Screenshot](/images/FreshMartAnalytics_page-0002.jpg)
 
-![Dashboard Screenshot](/images/FreshMarket_page-0003.jpg)
+![Dashboard Screenshot](/images/FreshMartAnalytics_page-0002.jpg)
 
 
 
