@@ -1,0 +1,41 @@
+product_id,name,category,price
+1,Apple Juice,Beverages,2.5
+2,Orange Soda,Beverages,4.8
+3,Iced Tea,Beverages,3.93
+4,Mineral Water,Beverages,3.39
+5,Bread Loaf,Bakery,1.62
+6,Croissant,Bakery,1.62
+7,Muffin,Bakery,1.23
+8,Bagel,Bakery,4.46
+9,Chicken Wrap,Deli,3.4
+10,Ham Sandwich,Deli,3.83
+11,Turkey Roll,Deli,1.08
+12,Veggie Wrap,Deli,4.88
+13,Potato Chips,Snacks,4.33
+14,Granola Bar,Snacks,1.85
+15,Chocolate Cookie,Snacks,1.73
+16,Popcorn,Snacks,1.73
+17,Milk,Dairy,2.22
+18,Cheese Block,Dairy,3.1
+19,Yogurt,Dairy,2.73
+20,Butter,Dairy,2.16
+21,Frozen Pizza,Frozen Foods,3.45
+22,Ice Cream,Frozen Foods,1.56
+23,Frozen Vegetables,Frozen Foods,2.17
+24,Frozen Fries,Frozen Foods,2.47
+25,Banana,Produce,2.82
+26,Apple,Produce,4.14
+27,Carrot,Produce,1.8
+28,Lettuce,Produce,3.06
+29,Chicken Breast,Meat,3.37
+30,Ground Beef,Meat,1.19
+31,Pork Chops,Meat,3.43
+32,Bacon,Meat,1.68
+33,Salmon Fillet,Seafood,1.26
+34,Shrimp Pack,Seafood,4.8
+35,Tuna Can,Seafood,4.86
+36,Crab Meat,Seafood,4.23
+37,Pasta,Pantry,2.22
+38,Rice,Pantry,1.39
+39,Canned Beans,Pantry,3.74
+40,Tomato Sauce,Pantry,2.76
