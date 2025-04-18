@@ -72,7 +72,7 @@ categories = { ... }  # see full script in repo
 
 ![Dashboard Screenshot](/images/FreshMartAnalytics_page-0002.jpg)
 
-![Dashboard Screenshot](/images/FreshMartAnalytics_page-0002.jpg)
+![Dashboard Screenshot](/images/FreshMartAnalytics_page-0003.jpg)
 
 
 
